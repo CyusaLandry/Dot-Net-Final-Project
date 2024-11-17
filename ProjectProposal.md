@@ -1,6 +1,14 @@
+
 # Election Management System
 
+## Group 16
+## Group Members Names and Ids
 
+1. NDAYISHIMIYE Bruno Ray 25486
+2. Cyusa Niyibaho Landry 25539
+3. Uwizeye Ngoga Sandra 25444
+4. Ishimwe Patrick 20273
+---
 
 ## Project Name
 Election Management System
